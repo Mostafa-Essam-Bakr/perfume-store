@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perfume-store/static/css/main.f6805f27.css",
-    "main.js": "/perfume-store/static/js/main.95b01947.js",
+    "main.js": "/perfume-store/static/js/main.6e9f9a62.js",
     "static/js/453.268df31e.chunk.js": "/perfume-store/static/js/453.268df31e.chunk.js",
     "static/media/per11.jpg": "/perfume-store/static/media/per11.64a3f718d55c23330871.jpg",
     "static/media/for him banner.mp4": "/perfume-store/static/media/for him banner.3beb62560aab874fa81e.mp4",
@@ -38,11 +38,11 @@
     "static/media/per 23.webp": "/perfume-store/static/media/per 23.cb4aaca9d430a8e9684f.webp",
     "index.html": "/perfume-store/index.html",
     "main.f6805f27.css.map": "/perfume-store/static/css/main.f6805f27.css.map",
-    "main.95b01947.js.map": "/perfume-store/static/js/main.95b01947.js.map",
+    "main.6e9f9a62.js.map": "/perfume-store/static/js/main.6e9f9a62.js.map",
     "453.268df31e.chunk.js.map": "/perfume-store/static/js/453.268df31e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6805f27.css",
-    "static/js/main.95b01947.js"
+    "static/js/main.6e9f9a62.js"
   ]
 }
